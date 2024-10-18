@@ -47,4 +47,6 @@ jobs:
           file: Dockerfile
           push: true
           tags: luca1204/its2024
+
+          
     
